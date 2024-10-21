@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Anton";
+  src: url("../fonts/Anton-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Interphase";
+  src: url("../fonts/TT Interphases Pro Trial Regular.ttf") format("truetype");
+}
+
+.font-anton {
+  font-family: "Anton", sans-serif;
+}
+
+.font-interphase {
+  font-family: "Interphase", sans-serif;
+}
